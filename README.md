@@ -1,2 +1,3 @@
-# SpringBootMultiModuleExecutableJar
-This project is SpringBootMulti Module project with executable jar file which can be run from command line. Also this project has dependency on other module for demo purpose
+# SpringBoot Admin built on Spring 1.5.1_Relaese
+
+Its working code 
